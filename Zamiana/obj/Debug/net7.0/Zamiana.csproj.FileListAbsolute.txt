@@ -1,0 +1,14 @@
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\bin\Debug\net7.0\Zamiana.exe
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\bin\Debug\net7.0\Zamiana.deps.json
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\bin\Debug\net7.0\Zamiana.runtimeconfig.json
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\bin\Debug\net7.0\Zamiana.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\bin\Debug\net7.0\Zamiana.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.AssemblyInfoInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.AssemblyInfo.cs
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.csproj.CoreCompileInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\refint\Zamiana.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\Zamiana.genruntimeconfig.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Zamiana\Zamiana\obj\Debug\net7.0\ref\Zamiana.dll
